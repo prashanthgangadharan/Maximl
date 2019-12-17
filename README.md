@@ -1,2 +1,0 @@
-# Maximl
-Java Problem Stament
